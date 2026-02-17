@@ -101,6 +101,7 @@ http://localhost/ecommerce/admin/login.php
 
 
 ecommerce/
+
 │
 ├── admin/           → admin panel files
 
