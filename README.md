@@ -122,6 +122,7 @@ ecommerce/
 ##  Author
 
 Developed by: **Vamsinath**
+
 Technology: PHP & MySQL Full Stack Project
 
 
