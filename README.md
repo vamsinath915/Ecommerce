@@ -103,9 +103,13 @@ http://localhost/ecommerce/admin/login.php
 ecommerce/
 │
 ├── admin/           → admin panel files
+
 ├── includes/        → database connection
+
 ├── images/          → product images
+
 ├── index.php        → homepage
+
 └── test_db.php      → database test file
 
 
