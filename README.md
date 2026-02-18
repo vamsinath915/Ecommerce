@@ -39,13 +39,8 @@ It allows users to browse products, and admin can manage products through an adm
 ##  Database Setup
 
 1. Open phpMyAdmin
-2. Create database:
-
-
-ecommerce
-
-
-3. Create products table:
+2. Create database:  ecommerce
+3. Create products table.
 
 
 
