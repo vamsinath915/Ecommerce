@@ -98,11 +98,15 @@ http://localhost/ecommerce/admin/login.php
 ecommerce/
 
 
-├── admin/           → admin panel files
+├── admin/  → admin panel files
+
+├── css/     →    style
+
+├── images/          → product images
 
 ├── includes/        → database connection
 
-├── images/          → product images
+├── pages/           →  login and cart files
 
 ├── index.php        → homepage
 
